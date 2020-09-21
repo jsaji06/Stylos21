@@ -15,4 +15,4 @@ Hello, you found me lol so I'm the typical programmer, I like Artificial Intelli
 - Pose Estimation Algorithm using Convolutional Neural Networks (using NBA footage)
 
 ### Skills
-[![stats]](https://github-readme-stats.vercel.app/api?username=elementzprojects&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)
+[![elementzprojects's github stats](https://github-readme-stats.vercel.app/api?username=elementzprojects&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
