@@ -1,7 +1,7 @@
 ### Hi there 👋
-Hello, you found me lol so I'm the typical programmer, I like Artificial Intelligence, Deep/Machine Learning, and all that stuff 
+Hello, you found me lol so I'm the typical programmer and high school student, but my main interests of programming is Artificial Intelligence and Deep/Machine Learning, and all that nerd shit
 
-### What I'm Working on
+### What I'm Working on :nerd:
 
 - Face Recognition using YOLO Algorithm
 
