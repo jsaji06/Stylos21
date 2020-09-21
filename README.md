@@ -1,12 +1,13 @@
 ### Hi there 👋
 Hello, you found me lol so I'm the typical programmer and high school student, but my main interests of programming is Artificial Intelligence and Deep/Machine Learning, and all that nerd shit
 
-### What I'm Working on :nerd:
+### What I'm Working on 
 
-- Face Recognition using YOLO Algorithm
+- Face Recognition using YOLO Algorithm (Code only)
 
 ### Future/Possible Projects
 
+- Self-driving Robot Car
 - Smyror Integrations (Canvas API, NBA Scores API, etc.)
 - Neural Style Transfer
 - Music Generation AI
