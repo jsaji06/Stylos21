@@ -1,12 +1,18 @@
 ### Hi there 👋
-Here are some ideas to get you started:
+Hello, you found me lol so I'm the typical programmer, I like Artificial Intelligence, Deep/Machine Learning, and all that stuff 
 
-🔭 I’m currently working on a self driving robot using computer vision
-🌱 I’m currently learning artificial intelligence/neural networks
-👯 I’m looking to collaborate on ...
- 🤔 I’m looking for help with ...
- 💬 Ask me about ...
- 📫 How to reach me: ...
- 😄 Pronouns: ...
- ⚡ Fun fact: ...
-idk what to put here
+### What I'm Working on
+
+- Face Recognition using YOLO Algorithm
+
+### Future/Possible Projects
+
+- Smyror Integrations (Canvas API, NBA Scores API, etc.)
+- Neural Style Transfer
+- Music Generation AI
+- LED Music Visualizer
+- Generative Chatbot/Voice Assistant
+- Pose Estimation Algorithm using Convolutional Neural Networks (using NBA footage)
+
+### Skills
+[stats](https://github-readme-stats.vercel.app/api?username=elementzprojects&show_icons=true)
