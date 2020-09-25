@@ -17,5 +17,5 @@ Hello, you found me lol so I'm the typical programmer and high school student, b
 
 ### Skills
 [![stats](https://github-readme-stats.vercel.app/api?username=elementzprojects&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=12944qwerty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=elementzprojects&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
