@@ -10,6 +10,7 @@ Hello, you found me lol so I'm the typical programmer and high school student, b
 - Self-driving Robot Car
 - Smyror Integrations (Canvas API, NBA Scores API, etc.)
 - Neural Style Transfer
+- Rap Lyrics Generator
 - Music Generation AI
 - LED Music Visualizer
 - Generative Chatbot/Voice Assistant
