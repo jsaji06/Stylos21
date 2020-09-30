@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, you found me lol so I'm the typical programmer and high school student (freshman), but my main interests of programming is Artificial Intelligence and Deep/Machine Learning, and all that nerd shit
+Hello, you found me lol so I'm the typical programmer and high school student (freshman), but my main interests of programming is Artificial Intelligence and Deep/Machine Learning
 
 ### What I'm Working on 
 
