@@ -3,6 +3,7 @@ Hello, you found me lol so I'm the typical programmer and high school student (f
 
 ### What I'm Working on 
 
+- Redesign GitHub Website (Current)
 - Generative Chatbot/Voice Assistant
 
 ### Future/Possible Projects
