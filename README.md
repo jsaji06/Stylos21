@@ -3,7 +3,7 @@ Hello, you found me lol so I'm the typical programmer and high school student (f
 
 ### What I'm Working on 
 
-- Face Recognition using YOLO Algorithm (Code only)
+- Generative Chatbot/Voice Assistant
 
 ### Future/Possible Projects
 
@@ -13,7 +13,6 @@ Hello, you found me lol so I'm the typical programmer and high school student (f
 - Rap Lyrics Generator
 - Music Generation AI
 - LED Music Visualizer
-- Generative Chatbot/Voice Assistant
 - Pose Estimation Algorithm using Convolutional Neural Networks (using NBA footage)
 
 ### Skills
