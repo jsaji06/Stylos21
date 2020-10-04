@@ -7,7 +7,7 @@ Hello, you found me lol so I'm a programmer and high school student (freshman), 
 
 ### Future/Possible Projects
 
-- Smyror Integrations (Canvas API, NBA Scores API, etc.)
+- Something with Canvas API
 - Neural Style Transfer
 - Rap Lyrics Generator
 - Music Generation AI
