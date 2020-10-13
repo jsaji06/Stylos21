@@ -3,7 +3,7 @@ Hello, you found me lol so I'm a programmer and high school student (freshman), 
 
 ### What I'm Working on 
 
-- Self-driving Robot Car
+- Self-driving Robot Car using Reinforcement Learning
 
 ### Future/Possible Projects
 
