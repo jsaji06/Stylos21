@@ -1,8 +1,10 @@
 ### Hi there 👋
 Hello, you found me lol so I'm a programmer and high school student (freshman), but my main interests of programming is Artificial Intelligence and Deep/Machine Learning
 
-### What I'm Working on 
+### What I'm Working on/Learning
 
+- Learning Reinforcement Learning
+- Some Game AI with RL
 - Self-driving Robot Car using Reinforcement Learning
 
 ### Future/Possible Projects
