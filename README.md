@@ -3,12 +3,11 @@ Hello, you found me lol so I'm a programmer and high school student (freshman), 
 
 ### What I'm Working on/Learning
 
-- Learning Reinforcement Learning
-- Some Game AI with RL
-- Self-driving Robot Car using Reinforcement Learning
+- Obstacle Course DQN Algorithm
 
 ### Future/Possible Projects
 
+- Self driving car RL Algorithm
 - Something with Canvas API
 - Neural Style Transfer
 - Rap Lyrics Generator
@@ -19,6 +18,6 @@ Hello, you found me lol so I'm a programmer and high school student (freshman), 
 - Generative Chatbot/Voice Assistant
 
 ### Skills
-[![stats](https://github-readme-stats.vercel.app/api?username=elementzprojects&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=elementzprojects&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=Stylos21&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Stylos21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
