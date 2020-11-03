@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, you found me lol so I'm a programmer and high school student (freshman), but my main interests of programming is Artificial Intelligence and Deep/Machine Learning
+Hello! I'm a Freshman in High School, and my biggest interest is programming. Specifically, I like to make Deep Learning/Neural Networks/AI. I geenerally code in Python, and JavaScript sometimes.
 
 ### What I'm Working on/Learning
 
@@ -16,6 +16,9 @@ Hello, you found me lol so I'm a programmer and high school student (freshman), 
 - Pose Estimation Algorithm using Convolutional Neural Networks (using NBA footage)
 - Portfolio Website using HTML, CSS, JS, Django
 - Generative Chatbot/Voice Assistant
+
+### Contact
+Discord: [Stylos#7739]()
 
 ### Skills
 [![stats](https://github-readme-stats.vercel.app/api?username=Stylos21&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
