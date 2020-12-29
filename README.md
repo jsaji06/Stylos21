@@ -3,13 +3,13 @@ Hello! I'm a Freshman in High School, and my biggest interest is programming. Sp
 
 ### What I'm Working on/Learning
 
-- Obstacle Course DQN Algorithm
+- Self driving car RL Algorithm
 
 ### Future/Possible Projects
 
-- Self driving car RL Algorithm
 - Something with Canvas API
 - Neural Style Transfer
+- Obstacle Course AI (Customizable!)
 - Rap Lyrics Generator
 - Music Generation AI
 - LED Music Visualizer
