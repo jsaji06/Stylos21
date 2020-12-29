@@ -18,7 +18,7 @@ Hello! I'm a Freshman in High School, and my biggest interest is programming. Sp
 - Generative Chatbot/Voice Assistant
 
 ### Contact
-Discord: [Stylos#7739]()
+Add me on Discord: Canyay Southeast#7739
 
 ### Skills
 [![stats](https://github-readme-stats.vercel.app/api?username=Stylos21&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
