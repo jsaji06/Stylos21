@@ -24,3 +24,4 @@ Add me on Discord: Canyay Southeast#7739
 [![stats](https://github-readme-stats.vercel.app/api?username=Stylos21&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Stylos21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
