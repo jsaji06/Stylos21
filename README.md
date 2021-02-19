@@ -3,7 +3,7 @@ Hello! I'm a Freshman in High School, and my biggest interest is programming. Sp
 
 ### What I'm Working on/Learning
 
-- Self driving car RL Algorithm
+- NBA Player Detection Algorithm (bounding box stuff)
 
 ### Future/Possible Projects
 
@@ -15,7 +15,8 @@ Hello! I'm a Freshman in High School, and my biggest interest is programming. Sp
 - LED Music Visualizer
 - Pose Estimation Algorithm using Convolutional Neural Networks (using NBA footage)
 - Portfolio Website using HTML, CSS, JS, Django
-- Generative Chatbot/Voice Assistant
+- Generative Chatbot/Voice Assistant()
+- Self driving car RL Algorithm
 
 ### Contact
 Add me on Discord: Canyay Southeast#7739
