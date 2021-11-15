@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello! I'm a Freshman in High School, and my biggest interest is programming. Specifically, I like to make Deep Learning/Neural Networks/AI. I geenerally code in Python, and JavaScript sometimes.
+Hello! I'm a Sophomore in High School, and my biggest interest is programming. Specifically, I like to make Deep Learning/Neural Networks/AI. I geenerally code in Python, and JavaScript sometimes.
 
 ### What I'm Working on/Learning
 
