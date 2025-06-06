@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/joshuasaji__" target="blank"><img src="https://img.shields.io/twitter/follow/joshuasaji__?logo=twitter&style=for-the-badge" alt="joshuasaji__" /></a> </p>
 
-- 🔭 I’m currently working on **michelinGPT**
+- 🔭 I’m currently working on **SmartChef**
 
-- 🌱 I’m currently learning **Flask, OpenAI, LangChain**
+- 🌱 I’m currently learning **Flask, LangChain, FastAPI, React Native**
 
 - 📝 I regularly write articles on [https://iamjoshuasaji.medium.com/](https://iamjoshuasaji.medium.com/)
 
