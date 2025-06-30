@@ -1,6 +1,7 @@
 # Hi, I'm Joshua Saji
 
 I am an incoming second-year student at the University of Wisconsin-Madison studying Computer Sciences. This GitHub is home to my ideas & creations.
+
 ---
 
 ## 🛠️ Tech Stack & Tools
