@@ -19,10 +19,3 @@ I am an incoming second-year student at the University of Wisconsin-Madison stud
 Outside of coding, you can find me playing basketball, watching the NBA, reading, listening to R&B music, and weightlifting.
 
 ---
-
-## 🤝 Let's Connect
-
-- 💼 Portfolio (WIP): [joshuasaji.dev](https://jsaji06.github.io)  
-- 🐙 GitHub: [@jsaji06](https://github.com/jsaji06)  
-
----
